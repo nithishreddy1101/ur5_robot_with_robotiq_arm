@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/nithish/ROS/ur5_robotiq150/src/robot_descriptipn/worlds": No such
+  file or directory.
+
+[0m
