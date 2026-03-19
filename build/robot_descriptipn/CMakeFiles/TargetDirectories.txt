@@ -1,9 +1,0 @@
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/uninstall.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/robot_descriptipn_uninstall.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/test.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/edit_cache.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/rebuild_cache.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/list_install_components.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/install.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/install/local.dir
-/home/nithish/ROS/ur5_robotiq150/build/robot_descriptipn/CMakeFiles/install/strip.dir
